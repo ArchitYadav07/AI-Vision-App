@@ -1,0 +1,59 @@
+('C:\\Python Programming\\CV '
+ 'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\AIVisionConsole.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\build\\AIVisionConsole\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\venv312\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\venv312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Python Programming\\CV '
+   'Projects\\AI-Vision-Features\\venv312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('main_menu',
+   'C:\\Python Programming\\CV Projects\\AI-Vision-Features\\main_menu.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
