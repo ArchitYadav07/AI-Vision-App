@@ -2,7 +2,7 @@
 # AI Vision Console 🤖✨
 
 <p align="center">
-  <img src="screenshoots/Dashboard.png" width="700" alt="Main Dashboard Interface">
+  <img src="Screenshots/Dashboard.png" width="700" alt="Main Dashboard Interface">
 </p>
 
 This AI Vision Console is a centralized Python dashboard developed by Archit Yadav, designed to showcase the power of real-time computer vision. By integrating OpenCV, Mediapipe, and TensorFlow, the application features an interactive suite of projects including an Invisibility Cloak that utilizes color-based background substitution, an Air Canvas for touchless digital drawing via hand tracking, and an Emotion-based Music Player that curates playlists by analyzing facial expressions. Built with a clean, dark-themed Tkinter interface, the console serves as a professional portfolio piece that bridges advanced deep learning models with accessible, user-friendly desktop utility.
@@ -11,7 +11,7 @@ This AI Vision Console is a centralized Python dashboard developed by Archit Yad
 
 | 🎭 Emotion Detection | ✨ Invisibility Cloak | 🎨 Air Canvas |
 | :---: | :---: | :---: |
-| <img src="screenshoots/Emotion-Detection.png" width="250"> | <img src="screenshoots/Harry-Cloak.png" width="250"> | <img src="screenshoots/Air-Canvas.png" width="250"> |
+| <img src="Screenshots/Emotion-Detection.png" width="250"> | <img src="Screnshots/Harry-Cloak.png" width="250"> | <img src="Screenshots/Air-Canvas.png" width="250"> |
 | Real-time mood analysis | Color-based cloaking | Hand-tracking drawing |
 
 ## 🚀 Features
